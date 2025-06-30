@@ -50,4 +50,4 @@ Comparative company analysis
 Portfolio strategy planning
 
 Screenshots
-Show what the dashboard looks like - 
+Show what the dashboard looks like - https://github.com/ankushkumar55/Tata-motors-Suzlon-Paytm/blob/main/Screenshot%202025-06-30%20174645.png
